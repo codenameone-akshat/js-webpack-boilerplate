@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+ <results for="disco" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <opensearch:Query role="request" searchTerms="disco" startPage="1" />
+    <opensearch:totalResults>2641</opensearch:totalResults>
+    <opensearch:startIndex>0</opensearch:startIndex>
+    <opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+    <tagmatches>
+      <tag>
+        <name>disco</name>
+        <count>55483</count>
+        <url>www.last.fm/tag/disco</url>
+      </tag>
+      <tag>
+        <name>disco pop</name>
+        <count>160</count>
+        <url>www.last.fm/tag/disco%20pop</url>
+      </tag>
+    </tagmatches>
+  </results>
+</lfm>
